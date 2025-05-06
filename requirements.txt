@@ -1,0 +1,7 @@
+python-telegram-bot
+python-dotenv
+openai
+fuzzywuzzy
+python-Levenshtein
+requests
+beautifulsoup4
